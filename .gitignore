@@ -37,3 +37,4 @@ docs/make.bat
 docs/doctrees
 docs/html
 run-tests.sh
+buildout.cfg
